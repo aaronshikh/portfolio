@@ -1,4 +1,7 @@
 title: Aaron Shikh
+description: >-
+  Data science portfolio of Aaron Shikh — M.S. in Statistics | Python, R, SQL, Machine Learning
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme

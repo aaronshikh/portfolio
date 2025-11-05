@@ -1,37 +1,32 @@
-# Aaron Shikh
-M.S. in Statistics | Python • R • SQL • Machine Learning • Data Visualization
 
----
+Welcome to my data science portfolio! Here you'll find a selection of projects I've completed that showcase my skills in statistical modeling, machine learning, and data visualization. 
 
-Welcome to my data science portfolio! Here you'll find a selection of projects I've completed that showcase my skills in statistical modeling, machine learning, and data visualization. Each project includes a detailed README file that explains the goals, methodology, tools used, and results in greater depth.
-
-Feel free to explore and dive into anything that interests you!
+Each project includes a detailed README file that explains the goals, methodology, tools used, and results in greater depth. Feel free to explore and dive into anything that interests you!
 
 ---
 
 ## Projects
 
 ### Neural Network Classifier (Python, NumPy, Pandas)
-Built a fully connected neural network from scratch using NumPy. Implemented backpropagation and SGD. Tuned hyperparameters to improve performance across 4 datasets.
+Built a neural network from scratch in Python using only NumPy. Implemented backpropagation, stochastic gradient descent, and a full training pipline. Tuned hyperparameters to improve performance across multiple datasets.
 
 [View Project](https://github.com/aaronshikh/Neural-Net)
 
 ---
 
 ### Brain MRI Shape Analysis (Python, geomstats)
-Used Kendall shape space and permutation testing to compare brain MRIs from Alzheimer’s patients vs controls. Created visualizations and ran clustering.
+Used Kendall shape space and energy-distance permutation testing to compare brain images from Alzheimer’s patients vs controls. Combined hierarchical clustering and visualization to present a clear explanation of group-level differences.
 
 [View Project](https://github.com/aaronshikh/Shape-Analysis-Alzheimer-s-)
 
 ---
 
 
-### Impact of Climbing on Bird Populations (R, tidverse, glmnet, )
-Analyzed data from a published study on how recreational climbing affects nesting bird populations. Reproduced and extended the original paper’s findings using custom R code and basic regression modeling. Interpreted ecological implications and communicated findings in a formal scientific-style report.
+### Impact of Climbing on Bird Populations (R, tidverse, glmnet, randomForest, mgcv, corrplot)
+Applied logistic regression, Generalized Additive Models (GAMs), penalized regression, and ensemble models to evaluate how recreational climbing impacts nesting bird populations.
 
 [View Project](https://github.com/aaronshikh/Impact-of-Rock-Climbing-on-Bird-Populations)
 
----
 
 
 

@@ -5,6 +5,7 @@
 **HI! I'm Aaron — an aspiring data scientist
 with a passion for analyzing, modeling, and explaining things.**
 
+---
 
 Welcome to my data science portfolio! Here you'll find a selection of projects I've completed that showcase my skills. 
 

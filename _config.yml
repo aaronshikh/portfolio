@@ -3,9 +3,13 @@ logo: /assets/headshotcircle.png
 description: >-
   <strong>M.S. in Statistics</strong><br>
   <em>Python, R, SQL, Machine Learning, Statistical Modeling</em><br><br>
-  <a href="/assets/resume.pdf" target="_blank" style="text-decoration:none; font-weight:bold;">📄 Resume</a> &nbsp;•&nbsp; 
-  <a href="https://github.com/aaronshikh" target="_blank" style="text-decoration:none; font-weight:bold;">💻 GitHub</a> &nbsp;•&nbsp; 
-  <a href="https://linkedin.com/in/aaronshikh" target="_blank" style="text-decoration:none; font-weight:bold;">🔗 LinkedIn</a>
+  <a href="/assets/resume.pdf" target="_blank" style="text-decoration:none; font-weight:bold;">📄 Resume</a> &nbsp;•&nbsp;
+  <a href="https://github.com/aaronshikh" target="_blank" style="text-decoration:none; font-weight:bold;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="16" style="vertical-align:middle;"> GitHub
+  </a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/aaronshikh" target="_blank" style="text-decoration:none; font-weight:bold;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" style="vertical-align:middle;"> LinkedIn
+  </a>
 
 
 theme: jekyll-theme-minimal

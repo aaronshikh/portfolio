@@ -6,7 +6,7 @@
 with a passion for analyzing, modeling, and explaining things.**
 
 
-Welcome to my data science portfolio! Here you'll find a selection of projects I've completed that showcase my skills in statistical modeling, machine learning, and data visualization. 
+Welcome to my data science portfolio! Here you'll find a selection of projects I've completed that showcase my skills. 
 
 Each project includes a detailed README file that explains the goals, methodology, tools used, and results in greater depth. Feel free to explore and dive into anything that interests you!
 

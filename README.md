@@ -1,6 +1,6 @@
 
 <p align="center"><strong>
-Hi, I'm Aaron — an aspiring data scientist<br>
+Hi! I'm Aaron — an aspiring data scientist<br>
 with a passion for analyzing, modeling, and explaining things.
 </strong></p>
 

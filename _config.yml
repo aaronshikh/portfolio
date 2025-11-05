@@ -1,6 +1,6 @@
 title: Aaron Shikh
+logo: headshot.jpeg
 description: >-
-  M.S. in Statistics | Python, R, SQL, Machine Learning
+  M.S. in Statistics | Python, R, SQL, Machine Learning, Statistical Modeling
 
-remote_theme: pages-themes/minimal@v0.2.0
-
+theme: jekyll-theme-minimal

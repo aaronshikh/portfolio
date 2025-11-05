@@ -1,7 +1,10 @@
 title: Aaron Shikh
-logo: /imgs/headshotcircle.png
+logo: /assets/headshotcircle.png
 description: 
-  M.S. in Statistics |
-  Python, R, SQL, Machine Learning, Statistical Modeling
+  M.S. in Statistics<br>
+    Python, R, SQL, Machine Learning, Statistical Modeling<br><br>
+    <a href="/assets/resume.pdf">Resume</a> • 
+    <a href="https://github.com/aaronshikh">GitHub</a> • 
+    <a href="https://linkedin.com/in/aaronshikh">LinkedIn</a>
 
 theme: jekyll-theme-minimal

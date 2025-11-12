@@ -2,8 +2,8 @@
 
 ## Data Science Portfolio
 
-**HI! I'm Aaron — an aspiring data scientist
-with a passion for analyzing, modeling, and explaining things.**
+**HI! I'm Aaron, an aspiring data scientist
+with a passion for analyzing, modeling, and explaining things (usually data).**
 
 ---
 

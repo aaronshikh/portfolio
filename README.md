@@ -16,7 +16,7 @@ Each project includes a detailed README file that explains the goals, methodolog
 ## Projects
 
 ### **[Neural Network Classifier](https://github.com/aaronshikh/Neural-Net)** (Python, NumPy, Pandas)
-Built a neural network from scratch in Python using only NumPy. Implemented backpropagation, stochastic gradient descent, and a full training pipline. Tuned hyperparameters to improve performance across multiple datasets.
+Built a neural network from scratch in Python using only NumPy. Implemented backpropagation, stochastic gradient descent, and a full training pipeline. Tuned hyperparameters to improve performance across multiple datasets.
 **[→ View Project](https://github.com/aaronshikh/Neural-Net)**
 
 ---
@@ -28,7 +28,7 @@ Used Kendall shape space and energy-distance permutation testing to compare brai
 
 ---
 
-### **[Impact of Climbing on Bird Populations](https://github.com/aaronshikh/Impact-of-Rock-Climbing-on-Bird-Populations)** (R, tidverse, glmnet, randomForest, mgcv, corrplot)
+### **[Impact of Climbing on Bird Populations](https://github.com/aaronshikh/Impact-of-Rock-Climbing-on-Bird-Populations)** (R, tidyverse, glmnet, randomForest, mgcv, corrplot)
 Applied logistic regression, Generalized Additive Models (GAMs), penalized regression, and ensemble models to evaluate how recreational climbing impacts nesting bird populations.
 **[→ View Project](https://github.com/aaronshikh/Impact-of-Rock-Climbing-on-Bird-Populations)**
 
